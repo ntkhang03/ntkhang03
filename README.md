@@ -23,7 +23,12 @@
 <br/>
 <br/>
 
-- 📫 How to reach me: [Facebook - @ntkhang03](https://www.facebook.com/NTKhang03) , [Youtube - @NTKhang03](https://www.youtube.com/ntkhang03)
+## 📫 How to reach me:
+
+| Facebook | Youtube | Twitter | Telegram |
+| :---: | :---: | :---: | :---: |
+| [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg)](https://www.facebook.com/100010382497517/) <p><b><a href="https://www.facebook.com/100010382497517/">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg)](https://t.me/ntkhang03) <p><b><a href="https://t.me/ntkhang03">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tw.svg)](https://twitter.com/ntkhang03) <p><b><a href="https://twitter.com/ntkhang03">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg)](https://www.youtube.com/c/NTKhang03) <p><b><a href="https://www.youtube.com/c/NTKhang03">NTKhang03</a><b></p>  |
+
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/ntkhang03?style=social)](https://twitter.com/ntkhang03)
 [![GitHub iampawan](https://img.shields.io/github/followers/ntkhang03?label=follow&style=social)](https://github.com/ntkhang03)
