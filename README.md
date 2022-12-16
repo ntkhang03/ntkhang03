@@ -60,7 +60,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fb-chat-api&repo=fb-chat-api&theme=github_dark" />
   </a>
   <a href="https://github.com/ntkhang03/Goat-Bot">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkhang03&repo=Goat-Bot&theme=github_dark" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkhang03&repo=Goat-Bot-V2&theme=github_dark" />
   </a>
 
 </p>
