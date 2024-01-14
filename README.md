@@ -1,4 +1,5 @@
 ## Hola, I'm [NTKhang!](https://www.facebook.com/ntkhang03) 👋
+<h3 align="center">I am a student and developer from Vietnam.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntkhang03&label=Views&color=blue&style=plastic" alt="ntkhang" /> </p>
 
@@ -46,6 +47,10 @@
 
 ## 📶 Github Stats
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ntkhang03">
+  <br>
+  <br>
+  
   <a href="https://github.com/ntkhang03">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntkhang03&theme=blue-green" style="margin-top: 10px;"/>
   </a>
